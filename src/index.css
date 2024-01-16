@@ -28,7 +28,7 @@ body{
 }
 
 .main{
-  background-image: url("background.jpg");
+  background-image: ("background.jpg");
   background-position: top;
   background-repeat:repeat-x;
   height: 700px;
