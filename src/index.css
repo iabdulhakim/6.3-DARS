@@ -211,4 +211,7 @@ button{
   .bottom{
     justify-content: center;
   }
+  .main{
+    height: 850px;
+  }
 }
